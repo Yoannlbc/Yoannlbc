@@ -14,5 +14,5 @@ After working for 15 years in the tourism industry as a travel advisor, I decide
 --------------------
 
 ## Connect with me :globe_with_meridians:
-* [Github](https://github.com/yoannlbc)
+* [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][(https://github.com/yoannlbc)]
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/votre-profil/](https://www.linkedin.com/in/yoannlbc/))
