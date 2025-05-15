@@ -6,7 +6,7 @@ After working for 15 years in the tourism industry as a travel advisor, I decide
 
 --------------------
 
-## My projects 👇
+## My projects :desktop_computer:
 * [Senior Mentor](https://github.com/Rems31/senior_mentor): Senior Mentor is a Ruby-based website for renting services provided by "seniors": cooking classes, gardening, stories told like our grandparents did... "Airbnb clone" project carried out during the Wagon training in teams of three. 
 * [Cavinum](https://github.com/Rems31/Cavinum): Cavinum is a Ruby-based web application that allows you to manage your wine cellar in a simple and intuitive way. This was the final project for Le Wagon, which we had to complete in teams of three.
 * [Vinyles Flow](https://vinylesflow-ecf702fa9221.herokuapp.com/): Vinyles Flow is my first solo project after the training. It's a web application developed in Ruby that allows you to manage your vinyl collection.
