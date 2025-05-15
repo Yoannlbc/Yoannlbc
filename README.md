@@ -1,4 +1,4 @@
-## **Hi there!**👋
+## Hi there!👋
 
 I'm [Yoann Leblanc](https://www.yoannleblanc.com/), junior dev in France (Montpellier). 
 
@@ -13,5 +13,5 @@ After working for 15 years in the tourism industry as a travel advisor, I decide
   
 --------------------
 
-## **Connect with me**
+## Connect with me
 [Github](https://github.com/yoannlbc) / [Linkedin](https://www.linkedin.com/in/yoannlbc/)
