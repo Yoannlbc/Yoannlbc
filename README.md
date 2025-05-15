@@ -2,7 +2,7 @@
 
 I'm [Yoann Leblanc](https://www.yoannleblanc.com/), junior dev in France (Montpellier). 
 
-After working for 15 years in the tourism industry as a travel advisor, I decided it was time for me to discover something else. Being curious by nature and always ready to learn new technologies, web development quickly became obvious. After following an intensive 2-month training course at Le Wagon, I was able to acquire the basics of several languages ​​(Ruby, Javascript, HTML, CSS), certain frameworks like Rails, Stimulus or Heroku as well as database management with SQL. Even if being a beginner, feel free to explore my Repositories. 
+After working for 15 years in the tourism industry as a travel advisor, I decided it was time for me to discover something else. Being curious by nature and always ready to learn new technologies, web development quickly became obvious. After following an intensive 2-month training course at Le Wagon, I was able to acquire the basics of several languages ​​(Ruby, Javascript, HTML, CSS), certain frameworks like Rails, Stimulus or Heroku as well as database management with SQL. Even if being a beginner, feel free to explore my repositories. 
 
 --------------------
 
